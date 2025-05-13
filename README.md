@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 
 <h3>My GitHub contributions summary</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nadeem-2005&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Nadeem-2005&theme=custom&hide_border=true&background=000000&stroke=DC143C&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&dates=FFFFFF&text=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF)](https://git.io/streak-stats)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Nadeem-2005&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Nadeem-2005&hide_border=true&show_icons=true&bg_color=000000&title_color=DC143C&icon_color=DC143C&text_color=ffffff)
+
 
 <h3>When I code, I rely on</h3>
 <p>
