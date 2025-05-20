@@ -1,6 +1,8 @@
 ## Hi there 👋!! I am Mohammed Nadeem
-Behold! I am a Full Stack Developer, a digital conjurer wielding the mighty powers of frontend finesse and backend brilliance. With keyboards as my wand and caffeine as my potion, I summon seamless digital experiences from the void. Currently venturing into the enchanted forests of iOS app development—because why limit myself to one realm when I can dominate them all? Always on a quest to breathe life into ideas with the sorcery of code.
-<!--
+
+Behold! I am a Full Stack Developer, a Stand User in the realm of code, wielding the awe-inspiring Stand "Code Crusader" with the combined might of frontend finesse and backend brilliance. My keyboard is my Stand Arrow, and caffeine fuels my Hamon, channeling energy into seamless digital experiences summoned from the abyss of the void.
+
+Currently embarking on an epic crusade through the enchanted lands of iOS app development—because why confine myself to one Stand's prowess when I can master them all? My Stand's power: "Infinite Deployment," breathes life into dormant ideas with the sorcery of code, transcending the realms of technology like a true Joestar.
 **Nadeem-2005/Nadeem-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
