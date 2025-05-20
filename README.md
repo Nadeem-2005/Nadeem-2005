@@ -43,6 +43,7 @@ Currently embarking on an epic crusade through the enchanted lands of iOS app de
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Firestore" src="https://img.shields.io/badge/-Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="VSCode" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
   <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
@@ -60,4 +61,4 @@ Git, GitHub, Unix Shell, AWS, Azure, Firebase, VSCode, Vite, PyCharm, Xcode, Xco
 Node.js, React.js, Express.js, EJS, Bootstrap, Tailwind CSS, Shadcn
 
 ### 🗄️ Databases
-MySQL, Firestore, MongoDB
+MySQL, Firestore, MongoDB, PostgreSQL
